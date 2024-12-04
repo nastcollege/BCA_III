@@ -7,6 +7,7 @@ public class DataTypesDemo {
         System.out.println(Byte.MIN_VALUE);
         System.out.println(Byte.MAX_VALUE);
         System.out.println("byte has "+Byte.SIZE + " bit size");
+
         System.out.println(b+byt);
 
         //char example
