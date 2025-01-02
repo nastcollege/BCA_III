@@ -33,8 +33,8 @@ public class DataTypesDemo {
 
         /*
         comment
-        nhdjfnsd
-        fdbndkjdnkd
+        multiple line
+
         
          */
     }
