@@ -1,3 +1,5 @@
+
+
 public class Triangle {
 
     public void area(double base, double height) {
