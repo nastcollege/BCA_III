@@ -1,0 +1,15 @@
+INSERT
+INSERT INTO tbl_students (first_name, last_name, email, mobile, status) VALUES ('Ramesh', 'Bhatt', 'ramesh@gmail.com', '9854785487', '1');
+
+READ BY ID
+SELECT * FROM tbl_students WHERE id='1'
+
+READ ALL
+SELECT * FROM tbl_students
+
+UPDATE
+UPDATE tbl_students SET first_name='', last_name='', email='', mobile='', status='' WHERE id=''
+
+DELETE
+
+DELETE FROM tbl_Students WHERE id=?
